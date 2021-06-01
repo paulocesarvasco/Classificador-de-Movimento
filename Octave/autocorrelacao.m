@@ -1,0 +1,1 @@
+resultanteAceleracao = sqrt(normalizadoAndando_1(:,1)²+normalizadoAndando_1(:,2)²+normalizadoAndando_1(:,3)²) 
